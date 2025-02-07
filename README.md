@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # zylu_assignment
 
 This repository contains a Flutter application that displays a list of vehicles with color-coded indicators based on their fuel efficiency and pollution levels. The app provides an intuitive and visually appealing way to categorize vehicles based on their mileage and age.
